@@ -19,8 +19,8 @@ Feel free to explore the notebooks and adapt the code to your needs. If you find
    
 2. Clone the repository:
 <pre>
-  !git clone https://github.com/vietsuan/image-retrieval-project.git
-  !cd image-retrieval-project
+  git clone https://github.com/vietsuan/image-retrieval-project.git
+  cd image-retrieval-project
 </pre>
 
 3. Open the notebooks using Google Colab or Jupyter Notebook to examine and experiment with the techniques.
