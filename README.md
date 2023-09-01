@@ -15,13 +15,15 @@ Feel free to explore the notebooks and adapt the code to your needs. If you find
 
 ## Usage
 
-1. Clone the repository:
+1. Download the dataset: [here](https://drive.google.com/file/d/1Q0quEfLdfBYv9pJ8LJtmCGTizKr2jG-Z/view?usp=sharing).
+   
+2. Clone the repository:
 <pre>
   !git clone https://github.com/vietsuan/image-retrieval-project.git
   !cd image-retrieval-project
 </pre>
 
-2. Open the notebooks using Google Colab or Jupyter Notebook to examine and experiment with the techniques.
+3. Open the notebooks using Google Colab or Jupyter Notebook to examine and experiment with the techniques.
 
 ## Contributions
 
