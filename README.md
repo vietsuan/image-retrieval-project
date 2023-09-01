@@ -28,3 +28,7 @@ Feel free to explore the notebooks and adapt the code to your needs. If you find
 ## Contributions
 
 Contributions are welcome! If you have ideas for improvements or want to add new features, feel free to open an issue or submit a pull request.
+
+## References
+
+Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Hinton, G. (2020). An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. arXiv preprint arXiv:2010.11929. [[PDF](https://arxiv.org/pdf/2010.11929.pdf)]
