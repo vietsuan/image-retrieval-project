@@ -5,7 +5,7 @@ This repository contains two Google Colab notebooks showcasing different techniq
 ## Notebooks
 
 - [Baseline Image Retrieval](image_retrieval_baseline.ipynb): Implementing a basic image retrieval method.
-- [Image Retrieval with ViT](image_retrieval_using_vit.ipynb): Demonstrating image retrieval using the Vision Transformer (ViT) model.
+- [Image Retrieval using ViT](image_retrieval_using_vit.ipynb): Demonstrating image retrieval using the Vision Transformer (ViT) model.
 
 ## About
 
